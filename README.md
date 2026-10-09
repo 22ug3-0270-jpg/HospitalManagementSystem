@@ -1,7 +1,7 @@
 # Hospital Management System - CIT300 Mid Assignment
 
 ## Student Information
-- **Name:** [ඔයාගේ නම මෙතන දාන්න]
+- **Name:** S D D A SIYAMBALAPITIYA
 - **Student ID:** 22ug3-0270
 - **Module:** CIT300
 
